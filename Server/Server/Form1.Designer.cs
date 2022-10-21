@@ -92,7 +92,7 @@ namespace Server
             this.Controls.Add(this.listServer);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Server";
             ((System.ComponentModel.ISupportInitialize)(this.txt_d)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -79,13 +79,13 @@ namespace Client
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(436, 229);
+            this.ClientSize = new System.Drawing.Size(435, 186);
             this.Controls.Add(this.lbl_result);
             this.Controls.Add(this.btn_send);
             this.Controls.Add(this.txt_number);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Client";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.txt_number)).EndInit();
             this.ResumeLayout(false);
