@@ -69,7 +69,7 @@ namespace Client
             // 
             this.lbl_result.AutoSize = true;
             this.lbl_result.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_result.Location = new System.Drawing.Point(177, 120);
+            this.lbl_result.Location = new System.Drawing.Point(146, 120);
             this.lbl_result.Name = "lbl_result";
             this.lbl_result.Size = new System.Drawing.Size(76, 25);
             this.lbl_result.TabIndex = 3;

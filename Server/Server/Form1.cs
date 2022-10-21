@@ -11,12 +11,9 @@ using System.Net;
 using System.Net.Sockets;
 using System.Threading;
 
-namespace Server
-{
-    public partial class Form1 : Form
-    {
-        public Form1()
-        {
+namespace Server {
+    public partial class Form1 : Form {
+        public Form1() {
             CheckForIllegalCrossThreadCalls = false;
             InitializeComponent();
         }
@@ -25,7 +22,7 @@ namespace Server
         public static string ip = "127.0.0.1", port = "5000";
 
         private void StartListening() {
-            int d = 3;
+            int d = int.Parse(txt_d.Text);
             byte[] bytes = new Byte[1024];
 
             IPAddress ipAddress = System.Net.IPAddress.Parse(ip);
@@ -74,15 +71,13 @@ namespace Server
                     handler.Close();
                 }
 
-            }
-            catch (Exception e) {
+            } catch (Exception e) {
                 listServer.Items.Add(e.ToString());
             }
 
             listServer.Items.Add("\nPress ENTER to continue...");
         }
-        private void btn_start_Click(object sender, EventArgs e)
-        {
+        private void btn_start_Click(object sender, EventArgs e) {
             Thread t = new Thread(new ThreadStart(StartListening));
             t.Start();
         }
