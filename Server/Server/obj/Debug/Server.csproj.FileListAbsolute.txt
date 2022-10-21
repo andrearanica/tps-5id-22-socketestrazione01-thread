@@ -1,0 +1,10 @@
+C:\Users\ranica.18375\Documents\GitHub\tps-5id-22-socketestrazione01-thread\Server\Server\bin\Debug\Server.exe.config
+C:\Users\ranica.18375\Documents\GitHub\tps-5id-22-socketestrazione01-thread\Server\Server\bin\Debug\Server.exe
+C:\Users\ranica.18375\Documents\GitHub\tps-5id-22-socketestrazione01-thread\Server\Server\bin\Debug\Server.pdb
+C:\Users\ranica.18375\Documents\GitHub\tps-5id-22-socketestrazione01-thread\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\ranica.18375\Documents\GitHub\tps-5id-22-socketestrazione01-thread\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\ranica.18375\Documents\GitHub\tps-5id-22-socketestrazione01-thread\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\ranica.18375\Documents\GitHub\tps-5id-22-socketestrazione01-thread\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\ranica.18375\Documents\GitHub\tps-5id-22-socketestrazione01-thread\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\ranica.18375\Documents\GitHub\tps-5id-22-socketestrazione01-thread\Server\Server\obj\Debug\Server.exe
+C:\Users\ranica.18375\Documents\GitHub\tps-5id-22-socketestrazione01-thread\Server\Server\obj\Debug\Server.pdb
